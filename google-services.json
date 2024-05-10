@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157922881675",
+    "project_id": "totpauth-88586",
+    "storage_bucket": "totpauth-88586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157922881675:android:f711ea8dc4aefe2850648e",
+        "android_client_info": {
+          "package_name": "com.jerry_duncan.totp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuCYwu4ccwTe9EH6cQQkGPM7u8yQyHseg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
